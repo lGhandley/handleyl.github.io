@@ -1,7 +1,7 @@
    nav { background-color: #0fffff;
   border-radius: 6px;
         width: 600px;
-        display: flex;
+      padding: 5px;
 }
 
   
@@ -13,6 +13,9 @@ background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 50%
     background-attachment: fixed;
     padding: 0;
     height: 100vh;
+     display: flex;
+  justify-content: center;
+  align-items: center;
 }
   
  ul li {
@@ -20,8 +23,6 @@ background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 50%
   text-align: center;
    width: 85%;
     height: 20px;
-    justify-content: center;
-    align-items: center;
  }
   
  li {border-bottom: 1px dashed black;
