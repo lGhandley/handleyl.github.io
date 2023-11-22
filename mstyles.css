@@ -38,16 +38,4 @@ ul li {
   text-align: center;
 }
 
-  @media screen and (max-width: 600px)
 
-  {nav ul li {
-        display: block;
-         margin: 0;
-    }
-}
-   header{
-      position: fixed;
-      inset: 0;
-      width: 100vw;}
-
-}
