@@ -26,13 +26,13 @@ background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 50%
   text-align: center;
    width: 85%;
     height: 20px;
-    background-color: #00cccc;
+    background-color: #19d1d1;
  }
   
  li {border-bottom: 1px dashed black;
  padding: 5px;}
 
-li a {
+a {
 color: black;
    text-decoration: none;
    font-family: helvetica;
