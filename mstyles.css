@@ -9,6 +9,11 @@
  height: 100%;
 }
 
+img, nav {
+   margin: 0;
+   height: 300px;
+}
+
 section {
  height: 100%;
  overflow: hidden;
