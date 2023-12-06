@@ -2,9 +2,18 @@ body {
     margin: 50px auto;
 }
 
+header {
+ height: 100%;
+ overflow: hidden;
+ position: absolute;
+}
+
 nav {
     display: grid;
 grid-template-columns: auto auto;
+background: rgba(5, 139, 140, 0.7);
+ overflow: hidden;
+ height: 100%;
 }
 
 nav ul, footer ul {
