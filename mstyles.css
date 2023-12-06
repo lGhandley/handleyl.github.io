@@ -7,6 +7,7 @@
   align-items: center;
       color: rgba(5, 139, 140, 0.7);
  overflow: hidden;
+      height: 100%;
 }
 
 img, nav {
@@ -16,7 +17,7 @@ img, nav {
 }
 
 section {
- height: 300px;
+ height: 100%;
  overflow: hidden;
  position: absolute;
 }
@@ -45,7 +46,7 @@ background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 50%
  }
   
  li {border-bottom: 1px dashed black;
- padding: 5px;}
+ padding: 0 5px;}
 
 a {
 color: black;
