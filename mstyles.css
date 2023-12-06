@@ -5,7 +5,7 @@
   justify-content: center;
       margin: 0;
   align-items: center;
-      background: rgba(5, 139, 140, 0.7);
+      color: rgba(5, 139, 140, 0.7);
  overflow: hidden;
 }
 
@@ -40,7 +40,7 @@ background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 50%
   list-style-type: none;
   text-align: center;
    width: 85%;
-    height: 20px;
+    height: 10%;
     background-color: #19d1d1;
  }
   
