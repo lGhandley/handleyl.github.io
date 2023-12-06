@@ -1,6 +1,6 @@
    nav {
   border-radius: 6px;
-      border: 3px solid #19d1d1;
+      /*border: 3px solid #19d1d1;*/
            display: flex;
   justify-content: center;
       margin: 0;
@@ -10,7 +10,7 @@
 }
 
 img, ul {
-   margin-left; 5px;
+   margin-left: 5px;
    height: 300px;
    padding: 0;
  overflow: hidden;
