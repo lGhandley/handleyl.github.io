@@ -6,6 +6,9 @@
       margin: 0;
   align-items: center;
       height: 100%;
+ overflow: hidden;
+ position: absolute;
+     background-color: rgba(5, 139, 140, 0.7);
 }
 
 img, ul {
@@ -15,12 +18,7 @@ img, ul {
  overflow: hidden;
 }
 
-header {
- height: 100%;
- overflow: hidden;
- position: absolute;
-     background-color: rgba(5, 139, 140, 0.7);
-}
+
 
 
   
