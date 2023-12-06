@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
 }
 
-header {
+nav {
     display: grid;
 grid-template-columns: 1fr 1fr;
 }
