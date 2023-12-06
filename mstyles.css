@@ -6,10 +6,11 @@
       margin: 0;
   align-items: center;
       height: 100%;
+      background-color: #19d1d1;
 }
 
 img, ul {
-   margin: 0;
+   margin-left; 5px;
    height: 300px;
    padding: 0;
  overflow: hidden;
