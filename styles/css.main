@@ -1,8 +1,12 @@
 body {
     margin: 60px auto;
+}
+
+header {
     display: grid;
 grid template-columns: 1fr 1fr;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
