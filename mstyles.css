@@ -8,8 +8,6 @@
       height: 100%;
  overflow: hidden;
  position: absolute;
-        background-image: url('grosbeakface-2.jpg') no-repeat fixed;
-      background-size: 300px;
      background-color: rgba(5, 139, 140, 0.7);
 }
 
