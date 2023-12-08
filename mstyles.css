@@ -20,9 +20,23 @@ img, ul {
 img {border-radius: 6px;}
 
   
- body  { 
-background: rgb(34,193,195);
-background: linear-gradient(45deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 50%, transparent), radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%), transparent; 
+ body  { background:
+  linear-gradient(
+    limegreen,
+    transparent
+  ),
+  linear-gradient(
+    90deg,
+    skyblue,
+    transparent
+  ),
+  linear-gradient(
+    -90deg,
+    coral,
+    transparent
+  );
+  
+background-blend-mode: screen;
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
